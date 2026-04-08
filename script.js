@@ -1,5 +1,8 @@
 // ========== КАРУСЕЛЬ ФОТО МАНИПУЛЯТОРА ==========
 const truckImages = [
+  'img_6.jpg',
+  'img_5.jpg',
+  'img_2.jpg',
   'img.webp',
   'img.png',
   'img_4.png',
